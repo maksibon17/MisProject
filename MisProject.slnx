@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MisProject.ApiService/MisProject.ApiService.csproj" />
+  <Project Path="MisProject.AppHost/MisProject.AppHost.csproj" />
+  <Project Path="MisProject.ServiceDefaults/MisProject.ServiceDefaults.csproj" />
+</Solution>

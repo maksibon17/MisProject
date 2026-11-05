@@ -1,0 +1,13 @@
+# .NET / Visual Studio
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Aspire / Docker
+**/http-client.env.json
+.dotnet/
+.NuGet/
